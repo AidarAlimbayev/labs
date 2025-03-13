@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+datasets/FashionMNIST0.6.npz
+datasets/CIFAR10.npz
+datasets/FashionMNIST0.3.npz
+datasets.zip
