@@ -1,0 +1,20 @@
+CIFAR VGGNet Transition Matrix Estimation Results
+==================================================
+
+
+Run 1/3
+Base model test accuracy: 0.7963
+
+Run 2/3
+Base model test accuracy: 0.7877
+
+Run 3/3
+Base model test accuracy: 0.8157
+
+Accuracy across 3 runs: 0.7999 ± 0.0117
+
+Estimated Transition Matrix:
+[[9.05760485e-01 9.34458637e-02 7.93650794e-04 0.00000000e+00]
+ [3.90777648e-04 9.52040175e-01 4.75690475e-02 0.00000000e+00]
+ [2.15211589e-03 0.00000000e+00 8.46392187e-01 1.51455697e-01]
+ [8.95405826e-02 0.00000000e+00 6.45042845e-03 9.04008989e-01]]
